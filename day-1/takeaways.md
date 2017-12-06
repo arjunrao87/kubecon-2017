@@ -1,0 +1,3 @@
+- Use Jaeger ( for k8s as a whole as well as the fabric )
+- Look at how HVT teams function
+- Use OpenTracing for fabric - http://opentracing.io/

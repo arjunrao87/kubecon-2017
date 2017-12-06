@@ -1,4 +1,6 @@
 # Deploying to k8s 1000s of times a day
+- CodeFresh
+- GKE
 
 ## Importance of high velocity
 - reduced risk 
