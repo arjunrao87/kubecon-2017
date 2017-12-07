@@ -1,0 +1,3 @@
+# Takeaways 
+
+- Weekly load test 
